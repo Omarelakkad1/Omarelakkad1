@@ -11,10 +11,8 @@
 <p align="left">
 <a href="https://my.linkedin.com/in/omar-el-akkad-9226ba285?trk=people-guest_people_search-card" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="omar el-akkad" height="30" width="40" /></a>
 <a href="https://instagram.com/omaar.e_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="omaar.e_" height="30" width="40" /></a>
-
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
 <a href="https://github.com/omarelakkad1/github-readme-stats" target="_blank"> <img src="https://github-readme-stats.vercel.app/api?username=omarelakkad1&show_icons=true&locale=en" alt="omarelakkad1" /> </a>
 </p>
-
 <p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=omarelakkad1&" alt="omarelakkad1" /></p>
