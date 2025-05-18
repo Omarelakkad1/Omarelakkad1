@@ -50,6 +50,14 @@
 <!-- GitHub Stats Section -->
 <h2>My Stats</h2>
 <div align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=omarelakkad1&show_icons=true&locale=en" alt="omarelakkad1" />
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=omarelakkad1&" alt="omarelakkad1" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=omarelakkad1&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117">
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=omarelakkad1&show_icons=true&theme=default&hide_border=true">
+    <img src="https://github-readme-stats.vercel.app/api?username=omarelakkad1&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117" width="49%" alt="Omar's Github stats">
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=omarelakkad1&theme=dark&hide_border=true&background=0D1117">
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=omarelakkad1&theme=default&hide_border=true">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=omarelakkad1&theme=dark&hide_border=true&background=0D1117" width="49%" alt="Omar's Github streak">
+  </picture>
 </div>
