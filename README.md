@@ -2,9 +2,8 @@
 
 <h1 align="center">Hola 👋, I'm Omar</h1>
 <p align="center">
-  <p align="center">
-  <a href="https://www.linkedin.com/in/omarelakkad77" target="_blank"><img src="https://img.shields.io/badge/LINKEDIN-%23424242?style=for-the-badge" height="28" alt="LinkedIn"/></a><a href="https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.com%2FOmarelakkad1" target="_blank"><img src="https://img.shields.io/badge/VISITORS-21-%23E6E6E6?style=for-the-badge&labelColor=%2300BFFF" height="28" alt="Visitors"/></a>
-</p>
+<p align="center">
+  <a href="https://www.linkedin.com/in/omarelakkad77" target="_blank"><img src="https://img.shields.io/badge/LINKEDIN-%23424242?style=for-the-badge" height="28" alt="LinkedIn"/></a>&nbsp;&nbsp;&nbsp;<a href="https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.com%2FOmarelakkad1" target="_blank"><img src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2FOmarelakkad1&label=VISITORS&labelColor=%2300BFFF&countColor=%23E6E6E6&style=for-the-badge&labelStyle=upper" height="28" alt="Visitors"/></a>
 </p>
 
 
