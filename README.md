@@ -48,13 +48,8 @@
 
 
 <!-- GitHub Stats Section -->
-<h2><img src="https://img.icons8.com/ios-filled/24/FFFFFF/link--v1.png" width="24px" alt="Link Icon"/> My stats</h2>
-
+<h2>My Stats</h2>
 <div align="center">
-
-  
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=omarelakkad1&show_icons=true&locale=en" alt="omarelakkad1" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=omarelakkad1&" alt="omarelakkad1" /></p>
-
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=omarelakkad1&show_icons=true&locale=en" alt="omarelakkad1" />
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=omarelakkad1&" alt="omarelakkad1" />
 </div>
