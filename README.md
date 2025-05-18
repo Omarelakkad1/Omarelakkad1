@@ -15,8 +15,8 @@
 </ul>
 
 <!-- i code with Section  -->
-<h1>I code with</h1>
-<hr>
+<h2>I code with</h2>
+
 
 <div align="left">
   <!-- Row 1 -->
