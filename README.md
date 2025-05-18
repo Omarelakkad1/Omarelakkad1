@@ -9,7 +9,7 @@
 
 <h2>About me</h2>
 <ul>
-  <li>All of my projects are available on <a href="https://github.com/Omarelakkad1">GitHub</a></li>
+  <li>All of my projects are available on <a href="https://github.com/Omarelakkad1?tab=repositories">GitHub</a></li>
   <li>How to reach me <a href="mailto:omarelakkad77@gmail.com">omarelakkad77@gmail.com</a></li>
 </ul>
 
