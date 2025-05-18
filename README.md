@@ -58,7 +58,6 @@
 
 <!-- GitHub Stats Section -->
 <h2><img src="https://img.icons8.com/ios-filled/24/FFFFFF/link--v1.png" width="24px" alt="Link Icon"/> My stats</h2>
-<hr>
 
 <div align="center">
   <table>
