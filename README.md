@@ -60,23 +60,7 @@
 <h2><img src="https://img.icons8.com/ios-filled/24/FFFFFF/link--v1.png" width="24px" alt="Link Icon"/> My stats</h2>
 
 <div align="center">
-  <table>
-    <tr>
-      <td valign="top" width="50%">
-        <img src="https://github-readme-stats.vercel.app/api?username=Omarelakkad1&show_icons=true&hide_border=true&count_private=true&bg_color=e3e7ef&title_color=000000&text_color=000000&icon_color=3a95ff" width="100%" alt="GitHub Stats Card">
-        <img src="https://img.shields.io/badge/⭐_Total_Stars_Earned-106-blue?style=for-the-badge&labelColor=e3e7ef&color=3a95ff" alt="Total Stars" />
-        <br>
-        <img src="https://img.shields.io/badge/🔄_Total_Commits-800-blue?style=for-the-badge&labelColor=e3e7ef&color=3a95ff" alt="Total Commits" />
-        <br>
-        <img src="https://img.shields.io/badge/🔀_Total_PRs-35-blue?style=for-the-badge&labelColor=e3e7ef&color=3a95ff" alt="Total PRs" />
-        <br>
-        <img src="https://img.shields.io/badge/ℹ️_Total_Issues-10-blue?style=for-the-badge&labelColor=e3e7ef&color=3a95ff" alt="Total Issues" />
-        <br>
-        <img src="https://img.shields.io/badge/📊_Contributed_to_(last_year)-4-blue?style=for-the-badge&labelColor=e3e7ef&color=3a95ff" alt="Contributed to" />
-      </td>
-      <td valign="top" width="50%">
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=Omarelakkad1&hide_border=true&background=e3e7ef&stroke=3a95ff&ring=3a95ff&fire=3a95ff&currStreakNum=000000&sideNums=000000&currStreakLabel=000000&sideLabels=000000&dates=000000" width="100%" alt="GitHub Streak Stats">
-        <table>
+
           <tr>
             <td align="center" width="33%">
               <h2>1,220</h2>
