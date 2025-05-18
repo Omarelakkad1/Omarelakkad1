@@ -4,9 +4,8 @@
 <p align="center">
   <a href="https://www.linkedin.com/in/omarelakkad77" target="_blank">
     <img src="https://img.shields.io/badge/LINKEDIN-grey?style=for-the-badge" alt="LinkedIn" />
-  </a>
-  <img src="https://visitcount.itsvg.in/api?id=Omarelakkad1&label=VISITORS&color=blue&style=for-the-badge" alt="Visitors" />
-</p>
+    
+[![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2FOmarelakkad1&label=VISITORS&labelColor=%232ccce4&countColor=%23d9e3f0&style=flat-square&labelStyle=none)](https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.com%2FOmarelakkad1)
 
 <h2>About me</h2>
 <ul>
