@@ -1,9 +1,60 @@
+![MasterHead](https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif)
+
+<h1 align="center">Hola 👋, I'm Omar</h1>
+<p align="center">
+<p align="center">
+  <a href="https://www.linkedin.com/in/omarelakkad77" target="_blank"><img src="https://img.shields.io/badge/LINKEDIN-%23424242?style=for-the-badge" height="28" alt="LinkedIn"/></a>&nbsp;&nbsp;&nbsp;<a href="https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.com%2FOmarelakkad1" target="_blank"><img src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2FOmarelakkad1&label=VISITORS&labelColor=%2300BFFF&countColor=%23E6E6E6&style=for-the-badge&labelStyle=upper" height="27" alt="Visitors"/></a>
+</p>
 
 
+<h2>About me</h2>
+<ul>
+  <li>All of my projects are available on <a href="https://github.com/Omarelakkad1">GitHub</a></li>
+  <li>How to reach me <a href="mailto:omarelakkad77@gmail.com">omarelakkad77@gmail.com</a></li>
+</ul>
+
+<!-- i code with Section  -->
+<h2>I code with</h2>
 
 
+<div align="left">
+  <!-- Row 1 -->
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React" />
+  <img src="https://img.shields.io/badge/React_Native-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React Native" />
+  <img src="https://img.shields.io/badge/Vue-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white" alt="Vue" />
+  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel" />
+<!--   <img src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white" alt="jQuery" /> -->
+<!--   <img src="https://img.shields.io/badge/.NET_MAUI-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt=".NET MAUI" /> -->
+<!--   <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" alt="Android" /> -->
+<!--   <img src="https://img.shields.io/badge/MUI-007FFF?style=for-the-badge&logo=mui&logoColor=white" alt="MUI" /> -->
+<!--   <img src="https://img.shields.io/badge/Vuetify-1867C0?style=for-the-badge&logo=vuetify&logoColor=white" alt="Vuetify" /> -->
+
+  <!-- Row 2 -->
+  <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="Tailwind CSS" />
+  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+
+  <!-- Row 3 -->
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" alt="Java" />
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++" />
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
+  <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" alt="Ubuntu" />
 
 
+<!-- GitHub Stats Section -->
+<h2><img src="https://img.icons8.com/ios-filled/24/FFFFFF/link--v1.png" width="24px" alt="Link Icon"/> My stats</h2>
+
+<div align="center">
+
+  
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=omarelakkad1&show_icons=true&locale=en" alt="omarelakkad1" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=omarelakkad1&" alt="omarelakkad1" /></p>
+
+</div>
