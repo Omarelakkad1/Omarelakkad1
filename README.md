@@ -52,25 +52,86 @@
 
 <div align="center">
 
-          <tr>
-            <td align="center" width="33%">
-              <h2>1,220</h2>
-              <p>Total Contributions</p>
-              <small>27 Feb 2022 - Present</small>
-            </td>
-            <td align="center" width="33%">
-              <h2 style="color: #ffa31a;">0</h2>
-              <p>Current Streak</p>
-              <small>18 May</small>
-            </td>
-            <td align="center" width="33%">
-              <h2>23</h2>
-              <p>Longest Streak</p>
-              <small>29 Oct 2023 - 20 Nov 2023</small>
-            </td>
-          </tr>
-        </table>
-      </td>
-    </tr>
-  </table>
+        <div align="center">
+  <kbd>
+    <div>
+      <table>
+        <tr>
+          <!-- Left Panel -->
+          <td align="center" width="400px">
+            <img width="15px" />
+            <table width="100%">
+              <tr>
+                <td align="left">
+                  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Star.png" width="20" /> Total Stars Earned:
+                </td>
+                <td align="right">
+                  <b>106</b>
+                </td>
+              </tr>
+              <tr>
+                <td align="left">
+                  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Hourglass%20Done.png" width="20" /> Total Commits:
+                </td>
+                <td align="right">
+                  <b>800</b>
+                </td>
+              </tr>
+              <tr>
+                <td align="left">
+                  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bookmark%20Tabs.png" width="20" /> Total PRs:
+                </td>
+                <td align="right">
+                  <b>35</b>
+                </td>
+              </tr>
+              <tr>
+                <td align="left">
+                  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Symbols/Warning.png" width="20" /> Total Issues:
+                </td>
+                <td align="right">
+                  <b>10</b>
+                </td>
+              </tr>
+              <tr>
+                <td align="left">
+                  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Desktop%20Computer.png" width="20" /> Contributed to (last year):
+                </td>
+                <td align="right">
+                  <b>4</b>
+                </td>
+              </tr>
+            </table>
+            <img width="15px" />
+          </td>
+          <!-- Right Panel -->
+          <td align="center" width="400px">
+            <img width="15px" />
+            <table width="100%">
+              <tr>
+                <td width="33%" align="center">
+                  <h3>1,220</h3>
+                  <p>Total Contributions</p>
+                  <small>27 Feb 2022 - Present</small>
+                </td>
+                <td width="33%" align="center">
+                  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Fire.png" width="60" />
+                  <h3 style="color: #ffa31a;">0</h3>
+                  <p>Current Streak</p>
+                  <small>18 May</small>
+                </td>
+                <td width="33%" align="center">
+                  <h3>23</h3>
+                  <p>Longest Streak</p>
+                  <small>29 Oct 2023 - 20 Nov 2023</small>
+                </td>
+              </tr>
+            </table>
+            <img width="15px" />
+          </td>
+        </tr>
+      </table>
+    </div>
+  </kbd>
+</div>
 </div>
