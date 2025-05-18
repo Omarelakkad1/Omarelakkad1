@@ -8,7 +8,7 @@
   <img src="https://visitcount.itsvg.in/api?id=Omarelakkad1&label=VISITORS&color=blue&style=for-the-badge" alt="Visitors" />
 </p>
 
-<h1>About me</h1>
+<h2>About me</h2>
 <ul>
   <li>All of my projects are available on <a href="https://github.com/Omarelakkad1">GitHub</a></li>
   <li>How to reach me <a href="mailto:omarelakkad77@gmail.com">omarelakkad77@gmail.com</a></li>
@@ -57,7 +57,7 @@
 </div>
 
 <!-- GitHub Stats Section -->
-<h1><img src="https://img.icons8.com/ios-filled/24/FFFFFF/link--v1.png" width="24px" alt="Link Icon"/> My stats</h1>
+<h2><img src="https://img.icons8.com/ios-filled/24/FFFFFF/link--v1.png" width="24px" alt="Link Icon"/> My stats</h2>
 <hr>
 
 <div align="center">
