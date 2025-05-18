@@ -9,7 +9,6 @@
 </p>
 
 <h1>About me</h1>
-<hr>
 <ul>
   <li>All of my projects are available on <a href="https://github.com/Omarelakkad1">GitHub</a></li>
   <li>How to reach me <a href="mailto:omarelakkad77@gmail.com">omarelakkad77@gmail.com</a></li>
