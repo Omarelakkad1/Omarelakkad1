@@ -5,15 +5,14 @@
 ###
 
 <div align="center">
-  <a href="https://my.linkedin.com/in/omarelakkad77" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&label=&color=e2e8f0&labelColor=&style=for-the-badge" height="24" alt="linkedin logo"  />
+  <a href="https://my.linkedin.com/in/omarelakkad77" target="_blank" style="text-decoration: none; outline: none;">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&label=&color=e2e8f0&labelColor=&style=for-the-badge" height="24" alt="linkedin logo" />
   </a>
-    <a href="https://visitorbadge.io/status?path=Omarelakkad1" target="_blank">
-  <img src="https://api.visitorbadge.io/api/visitors?path=Omarelakkad1&labelColor=000000&countColor=00FFAA&labelStyle=upper&style=flat-square" height="24" alt="visitors count"/>
-</a>
-
-
+  <a href="https://visitorbadge.io/status?path=Omarelakkad1" target="_blank" style="text-decoration: none; outline: none;">
+    <img src="https://api.visitorbadge.io/api/visitors?path=Omarelakkad1&labelColor=000000&countColor=00FFAA&labelStyle=upper&style=flat-square" height="24" alt="visitors count"/>
+  </a>
 </div>
+
 
 
 <h2>About me</h2>
