@@ -1,10 +1,19 @@
 ![MasterHead](https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif)
 
 <h1 align="center">Hola 👋, I'm Omar</h1>
-<p align="center">
-<p align="center">
-  <a href="https://www.linkedin.com/in/omarelakkad77" target="_blank"><img src="https://img.shields.io/badge/LINKEDIN-%23424242?style=for-the-badge" height="28" alt="LinkedIn"/></a>&nbsp;&nbsp;&nbsp;<a href="https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.com%2FOmarelakkad1" target="_blank"><img src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2FOmarelakkad1&label=VISITORS&labelColor=%2300BFFF&countColor=%23E6E6E6&style=for-the-badge&labelStyle=upper" height="27" alt="Visitors"/></a>
-</p>
+
+###
+
+<div align="center">
+  <a href="https://my.linkedin.com/in/omarelakkad77" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&label=&color=e2e8f0&labelColor=&style=for-the-badge" height="24" alt="linkedin logo"  />
+  </a>
+    <a href="https://visitorbadge.io/status?path=Omarelakkad1" target="_blank">
+  <img src="https://api.visitorbadge.io/api/visitors?path=Omarelakkad1&labelColor=000000&countColor=00FFAA&labelStyle=upper&style=flat-square" height="24" alt="visitors count"/>
+</a>
+
+
+</div>
 
 
 <h2>About me</h2>
@@ -44,7 +53,13 @@
 
 
 <!-- GitHub Stats Section -->
+## My stats
+
+###
+
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=fathulfahmy&hide_title=true&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=default&locale=en&hide_border=true&order=1&bg_color=000000" height="150" alt="stats graph" />
-  <img src="https://streak-stats.demolab.com?user=fathulfahmy&locale=en&mode=daily&theme=default&hide_border=true&border_radius=5&date_format=j%20M%5B%20Y%5D&order=3&background=000000" height="150" alt="streak graph" />
+  <img src="https://github-readme-stats.vercel.app/api?username=fathulfahmy&hide_title=true&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=default&locale=en&hide_border=true&order=1&bg_color=e2e8f0" height="150" alt="stats graph"  />
+  <img src="https://streak-stats.demolab.com?user=fathulfahmy&locale=en&mode=daily&theme=default&hide_border=true&border_radius=5&date_format=j%20M%5B%20Y%5D&order=3&background=e2e8f0" height="150" alt="streak graph"  />
 </div>
+
+###
