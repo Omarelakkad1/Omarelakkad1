@@ -22,13 +22,8 @@
   <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React" />
   <img src="https://img.shields.io/badge/React_Native-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React Native" />
   <img src="https://img.shields.io/badge/Vue-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white" alt="Vue" />
-  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel" />
-<!--   <img src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white" alt="jQuery" /> -->
-<!--   <img src="https://img.shields.io/badge/.NET_MAUI-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt=".NET MAUI" /> -->
-<!--   <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" alt="Android" /> -->
-<!--   <img src="https://img.shields.io/badge/MUI-007FFF?style=for-the-badge&logo=mui&logoColor=white" alt="MUI" /> -->
-<!--   <img src="https://img.shields.io/badge/Vuetify-1867C0?style=for-the-badge&logo=vuetify&logoColor=white" alt="Vuetify" /> -->
-
+  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel" /
+  
   <!-- Row 2 -->
   <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="Tailwind CSS" />
   <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap" />
@@ -47,17 +42,9 @@
   <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" alt="Ubuntu" />
 
 
+
 <!-- GitHub Stats Section -->
-<h2>My Stats</h2>
 <div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=omarelakkad1&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117">
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=omarelakkad1&show_icons=true&theme=default&hide_border=true">
-    <img src="https://github-readme-stats.vercel.app/api?username=omarelakkad1&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117" width="49%" alt="Omar's Github stats">
-  </picture>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=omarelakkad1&theme=dark&hide_border=true&background=0D1117">
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=omarelakkad1&theme=default&hide_border=true">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=omarelakkad1&theme=dark&hide_border=true&background=0D1117" width="49%" alt="Omar's Github streak">
-  </picture>
+  <img src="https://github-readme-stats.vercel.app/api?username=fathulfahmy&hide_title=true&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=default&locale=en&hide_border=true&order=1&bg_color=000000" height="150" alt="stats graph" />
+  <img src="https://streak-stats.demolab.com?user=fathulfahmy&locale=en&mode=daily&theme=default&hide_border=true&border_radius=5&date_format=j%20M%5B%20Y%5D&order=3&background=000000" height="150" alt="streak graph" />
 </div>
